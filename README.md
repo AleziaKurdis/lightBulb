@@ -1,5 +1,5 @@
 # lightBulb
-Generate a visible glowing light source with it's light beam for Vircadia.
+Generate rapidly a visible glowing light source with its light beam for Vircadia.
 
 You only have to adjust the shape, setup the color and user data and the script will manage the material 
 and the light entity with no impact on the server since it's all localy rendered for each visitor.
