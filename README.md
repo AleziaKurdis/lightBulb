@@ -2,6 +2,8 @@
 Generate rapidly a visible glowing light source with its light beam for Vircadia,  
 using this application.
   
+<p align="center"><img src="brand-banner-black.svg" width="50"/ style="border: 2px solid #000000"></p>  
+  
 Once generated, you can adjust the shape, setup the color and userdata and the script will manage the material  
 and the light entity with no impact on the server since it's all localy rendered for each visitor.  
   
